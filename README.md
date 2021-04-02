@@ -1,2 +1,2 @@
 # spring-batch
-SImple batch
+Simple batch
